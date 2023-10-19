@@ -1,7 +1,7 @@
 # AirBnB Project
 
 **Final Dashboard:**
-[AirBnB Dashboard](https://public.tableau.com/app/profile/hashini.liyanage/viz/AirBnBProject_16965914925010/Dashboard1#1)
+[Click!](https://public.tableau.com/app/profile/hashini.liyanage/viz/AirBnBProject_16965914925010/Dashboard1#1)
 
 
 -------------------------------------------------------------
